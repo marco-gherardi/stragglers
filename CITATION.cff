@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ciceri"
+  given-names: "Simone"
+- family-names: "Cassani"
+  given-names: "Lorenzo"
+- family-names: "Osella"
+  given-names: "Matteo"
+  orcid: "http://orcid.org/0000-0002-4916-5434"
+- family-names: "Rotondo"
+  given-names: "Pietro"
+- family-names: "Valle"
+  given-names: "Filippo"
+  orcid: "https://orcid.org/0000-0003-3577-8667"
+- family-names: "Gherardi"
+  given-names: "Marco"
+  orcid: "http://orcid.org/0000-0002-7745-8269"
+title: "nsbm"
+version: 1.0.0
+doi: https://doi.org/10.1038/s42256-023-00772-9
+date-released: 2024-01-08
+url: "https://github.com/marco-gherardi/stragglers"
